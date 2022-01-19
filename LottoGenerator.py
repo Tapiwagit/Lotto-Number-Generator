@@ -33,3 +33,5 @@ if __name__ == '__main__':
 else:
     time.sleep(20)
 
+lottery_pick()
+lottery_pick()
